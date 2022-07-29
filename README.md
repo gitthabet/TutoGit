@@ -1,2 +1,0 @@
-# TutoGit
-Tutorial Git
